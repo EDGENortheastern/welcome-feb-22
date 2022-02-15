@@ -1,2 +1,3 @@
-# EDGENortheastern-welcome-data-bootcamp-Jan-2022
-Welcome repo
+# EDGE Northeastern Welcome repo - February 2022 Data Analytics cohort
+
+
