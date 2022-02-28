@@ -6,6 +6,8 @@
 
 Hello. This is GitHub, the place code is stored and coders collaborate.
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 ---
 
 Make sure you have an account. Your GitHub name should be easy to remember, about you, and should not scare people.
