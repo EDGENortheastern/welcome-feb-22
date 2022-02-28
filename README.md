@@ -16,11 +16,10 @@ Make sure you have an account. Your GitHub name should be easy to remember, abou
 
 Above you should see the Tab called Issues.
 
-Issues are used for planning and project management. Anyoone can raise an issue on any open source GitHub repositories.
+Issues are used for planning and project management. Anyone can raise an issue on any open source GitHub repositories.
 
 ---
-
-Nowm please raise an issue in this repository to add you to collaborators.
+Please raise an issue in this repository to add you as a collaborator.
 
 ---
 
