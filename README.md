@@ -6,6 +6,8 @@
 
 Hello. This is GitHub, the place code is stored and coders collaborate.
 
+This file has been edited.
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ---
