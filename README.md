@@ -19,6 +19,7 @@ Above you should see the Tab called Issues.
 Issues are used for planning and project management. Anyone can raise an issue on any open source GitHub repositories.
 
 ---
+
 Please raise an issue in this repository to add you as a collaborator.
 
 ---
